@@ -42,3 +42,5 @@ git clone https://github.com/Authentrics-ai/authentrics-analysis-example-models.
 cd authentrics-analysis-example-models
 ls -lh *.zip
 ```
+
+> Note: The archives are stored using Git LFS as they are over 200MB each. The TORCH archive in particular is over 800MB as it includes the optimizer state.
